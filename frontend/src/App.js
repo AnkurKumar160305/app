@@ -162,8 +162,6 @@ const Dashboard = () => {
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-slate-50 via-blue-50 to-indigo-50">
-      <div className="absolute inset-0 bg-[url('data:image/svg+xml,%3Csvg%20width%3D%22100%22%20height%3D%22100%22%20viewBox%3D%220%200%20100%20100%22%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%3E%3Cg%20fill-rule%3D%22evenodd%22%3E%3Cg%20fill%3D%22%23059669%22%20fill-opacity%3D%220.02%22%3E%3Cpath%20d%3D%22M50%200A50%2050%200%201%201%200%2050a50%2050%200%200%201%2050-50zm0%2010A40%2040%200%201%200%2090%2050%2040%2040%200%200%200%2050%2010z%22/%3E%3C/g%3E%3C/g%3E%3C/svg%3E')] opacity-40"></div>
-      
       <div className="relative z-10 container mx-auto px-4 py-8">
         <div className="text-center mb-12">
           <div className="inline-flex items-center space-x-3 mb-6">
